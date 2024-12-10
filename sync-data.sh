@@ -1,0 +1,1 @@
+scp rodan:~/active-broadcast-per-day.csv stats.csv
